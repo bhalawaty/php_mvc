@@ -13,3 +13,5 @@ M
 core/Router.php,e/2/e23488f5a1e65735f2163dd70af90af96345c88a
 B
 core/bootstrap.php,5/5/55502747beee4228d394fd0995cae48e79195c4d
+S
+#app/controllers/UsersController.php,4/0/402fef174afbadac63fb091f24f6fe5a69308f7e
